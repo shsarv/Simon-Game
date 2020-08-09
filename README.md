@@ -15,16 +15,16 @@ Implementation of Simon game using Javascript.
 
 - HTMl
 
--CSS
+- CSS
 
--Javascript
+- Javascript
 
 
 ### Author
 
--Sarvesh Kumar Sharma
+- Sarvesh Kumar Sharma
 
 
 ### License
 
-- 
+-  GPL-3.0 License.
