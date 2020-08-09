@@ -3,7 +3,7 @@
 Implementation of Simon game using Javascript.
 
 
-### Click [play](https://shsarv.github.io/Simon-Game/) to play.
+### Click [here](https://shsarv.github.io/Simon-Game/) to play.
 
 
 ### Live Demo
@@ -13,6 +13,18 @@ Implementation of Simon game using Javascript.
 
 ### Technology used-
 
-- HTML
+- HTMl
+
 -CSS
+
 -Javascript
+
+
+### Author
+
+-Sarvesh Kumar Sharma
+
+
+### License
+
+- 
