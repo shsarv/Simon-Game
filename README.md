@@ -1,3 +1,3 @@
 # Simon-Game
-Simon game
+Implementation of Simon game using Javascript.
 ### [play here](https://shsarv.github.io/Simon-Game/)
